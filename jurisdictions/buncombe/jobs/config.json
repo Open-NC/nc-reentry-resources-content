@@ -1,4 +1,12 @@
 {
-  "page_name": "Jobs",
-  "page_tag": "jobs"
+  "pairs": [
+    {
+      "name": "page_name",
+      "value": "Jobs"
+    },
+    {
+      "name": "page_tag",
+      "value": "jobs"
+    }
+  ]
 }

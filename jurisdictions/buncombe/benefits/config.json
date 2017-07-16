@@ -1,4 +1,12 @@
 {
-  "page_name": "Public Benefits",
-  "page_tag": "benefits"
+  "pairs": [
+    {
+      "name": "page_name",
+      "value": "Public Benefits"
+    },
+    {
+      "name": "page_tag",
+      "value": "benefits"
+    }
+  ]
 }

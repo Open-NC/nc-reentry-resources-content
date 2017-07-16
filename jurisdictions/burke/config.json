@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Burke",
-  "local_jurisdiction": "burke"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Burke"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "burke"
+    }
+  ]
 }

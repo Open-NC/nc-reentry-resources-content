@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Perquimans",
-  "local_jurisdiction": "perquimans"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Perquimans"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "perquimans"
+    }
+  ]
 }

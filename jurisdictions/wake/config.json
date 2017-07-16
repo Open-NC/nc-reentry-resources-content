@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Wake",
-  "local_jurisdiction": "wake"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Wake"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "wake"
+    }
+  ]
 }

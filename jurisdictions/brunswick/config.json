@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Brunswick",
-  "local_jurisdiction": "brunswick"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Brunswick"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "brunswick"
+    }
+  ]
 }

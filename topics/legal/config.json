@@ -1,4 +1,12 @@
 {
-  "page_name": "Legal",
-  "page_tag": "legal"
+  "pairs": [
+    {
+      "name": "page_name",
+      "value": "Legal"
+    },
+    {
+      "name": "page_tag",
+      "value": "legal"
+    }
+  ]
 }

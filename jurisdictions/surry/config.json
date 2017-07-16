@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Surry",
-  "local_jurisdiction": "surry"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Surry"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "surry"
+    }
+  ]
 }

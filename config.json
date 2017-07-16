@@ -1,4 +1,12 @@
 {
-  "common_jurisdiction_name": "North Carolina",
-  "common_jurisdiction": "nc"
+  "pairs": [
+    {
+      "name": "common_jurisdiction_name",
+      "value": "North Carolina"
+    },
+    {
+      "name": "common_jurisdiction",
+      "value": "nc"
+    }
+  ]
 }

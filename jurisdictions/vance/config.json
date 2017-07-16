@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Vance",
-  "local_jurisdiction": "vance"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Vance"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "vance"
+    }
+  ]
 }

@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Catawba",
-  "local_jurisdiction": "catawba"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Catawba"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "catawba"
+    }
+  ]
 }

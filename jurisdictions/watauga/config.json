@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Watauga",
-  "local_jurisdiction": "watauga"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Watauga"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "watauga"
+    }
+  ]
 }

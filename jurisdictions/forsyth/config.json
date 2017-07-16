@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Forsyth",
-  "local_jurisdiction": "forsyth"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Forsyth"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "forsyth"
+    }
+  ]
 }

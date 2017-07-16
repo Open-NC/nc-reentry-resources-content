@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Currituck",
-  "local_jurisdiction": "currituck"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Currituck"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "currituck"
+    }
+  ]
 }

@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Macon",
-  "local_jurisdiction": "macon"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Macon"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "macon"
+    }
+  ]
 }

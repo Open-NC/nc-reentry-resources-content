@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Tyrrell",
-  "local_jurisdiction": "tyrrell"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Tyrrell"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "tyrrell"
+    }
+  ]
 }

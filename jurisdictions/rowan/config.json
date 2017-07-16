@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Rowan",
-  "local_jurisdiction": "rowan"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Rowan"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "rowan"
+    }
+  ]
 }

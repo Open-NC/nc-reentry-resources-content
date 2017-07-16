@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Richmond",
-  "local_jurisdiction": "richmond"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Richmond"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "richmond"
+    }
+  ]
 }

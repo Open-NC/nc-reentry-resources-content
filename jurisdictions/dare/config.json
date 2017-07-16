@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Dare",
-  "local_jurisdiction": "dare"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Dare"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "dare"
+    }
+  ]
 }

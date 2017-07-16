@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Sampson",
-  "local_jurisdiction": "sampson"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Sampson"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "sampson"
+    }
+  ]
 }

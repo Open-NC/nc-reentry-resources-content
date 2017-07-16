@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Davidson",
-  "local_jurisdiction": "davidson"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Davidson"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "davidson"
+    }
+  ]
 }

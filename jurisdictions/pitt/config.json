@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Pitt",
-  "local_jurisdiction": "pitt"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Pitt"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "pitt"
+    }
+  ]
 }

@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Caldwell",
-  "local_jurisdiction": "caldwell"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Caldwell"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "caldwell"
+    }
+  ]
 }

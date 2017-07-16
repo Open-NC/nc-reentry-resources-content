@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Northampton",
-  "local_jurisdiction": "northampton"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Northampton"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "northampton"
+    }
+  ]
 }

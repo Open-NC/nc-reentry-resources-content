@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "McDowell",
-  "local_jurisdiction": "mcdowell"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "McDowell"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "mcdowell"
+    }
+  ]
 }

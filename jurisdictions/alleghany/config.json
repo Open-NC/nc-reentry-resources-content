@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Alleghany",
-  "local_jurisdiction": "alleghany"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Alleghany"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "alleghany"
+    }
+  ]
 }

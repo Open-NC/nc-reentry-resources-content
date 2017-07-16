@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Robeson",
-  "local_jurisdiction": "robeson"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Robeson"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "robeson"
+    }
+  ]
 }

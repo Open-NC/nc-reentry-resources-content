@@ -1,4 +1,12 @@
 {
-  "page_name": "Other Resources",
-  "page_tag": "other"
+  "pairs": [
+    {
+      "name": "page_name",
+      "value": "Other Resources"
+    },
+    {
+      "name": "page_tag",
+      "value": "other"
+    }
+  ]
 }

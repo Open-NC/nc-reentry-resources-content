@@ -1,4 +1,11 @@
-{
-  "local_jurisdiction_name": "Polk",
-  "local_jurisdiction": "polk"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Polk"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "polk"
+    }
+  ]
 }

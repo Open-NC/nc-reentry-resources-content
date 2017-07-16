@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Halifax",
-  "local_jurisdiction": "halifax"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Halifax"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "halifax"
+    }
+  ]
 }

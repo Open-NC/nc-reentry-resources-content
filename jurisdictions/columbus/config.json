@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Columbus",
-  "local_jurisdiction": "columbus"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Columbus"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "columbus"
+    }
+  ]
 }

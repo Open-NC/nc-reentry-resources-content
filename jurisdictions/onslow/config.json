@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Onslow",
-  "local_jurisdiction": "onslow"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Onslow"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "onslow"
+    }
+  ]
 }

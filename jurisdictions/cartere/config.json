@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Cartere",
-  "local_jurisdiction": "cartere"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Cartere"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "cartere"
+    }
+  ]
 }

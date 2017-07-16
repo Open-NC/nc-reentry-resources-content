@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Swain",
-  "local_jurisdiction": "swain"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Swain"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "swain"
+    }
+  ]
 }

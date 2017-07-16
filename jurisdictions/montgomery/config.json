@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Montgomery",
-  "local_jurisdiction": "montgomery"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Montgomery"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "montgomery"
+    }
+  ]
 }

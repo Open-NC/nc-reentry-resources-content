@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Lincoln",
-  "local_jurisdiction": "lincoln"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Lincoln"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "lincoln"
+    }
+  ]
 }

@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Avery",
-  "local_jurisdiction": "avery"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Avery"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "avery"
+    }
+  ]
 }

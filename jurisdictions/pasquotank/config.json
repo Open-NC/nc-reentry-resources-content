@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Pasquotank",
-  "local_jurisdiction": "pasquotank"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Pasquotank"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "pasquotank"
+    }
+  ]
 }

@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Mitchell",
-  "local_jurisdiction": "mitchell"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Mitchell"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "mitchell"
+    }
+  ]
 }

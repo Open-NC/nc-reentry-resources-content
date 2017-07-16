@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Haywood",
-  "local_jurisdiction": "haywood"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Haywood"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "haywood"
+    }
+  ]
 }

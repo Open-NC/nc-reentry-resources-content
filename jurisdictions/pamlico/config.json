@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Pamlico",
-  "local_jurisdiction": "pamlico"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Pamlico"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "pamlico"
+    }
+  ]
 }

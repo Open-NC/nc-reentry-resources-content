@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Durham",
-  "local_jurisdiction": "durham"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Durham"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "durham"
+    }
+  ]
 }

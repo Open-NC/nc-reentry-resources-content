@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Franklin",
-  "local_jurisdiction": "franklin"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Franklin"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "franklin"
+    }
+  ]
 }

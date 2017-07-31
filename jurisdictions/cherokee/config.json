@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Cherokee",
-  "local_jurisdiction": "cherokee"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Cherokee"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "cherokee"
+    }
+  ]
 }

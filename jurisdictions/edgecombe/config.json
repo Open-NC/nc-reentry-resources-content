@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Edgecombe",
-  "local_jurisdiction": "edgecombe"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Edgecombe"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "edgecombe"
+    }
+  ]
 }

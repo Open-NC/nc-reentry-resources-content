@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Stokes",
-  "local_jurisdiction": "stokes"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Stokes"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "stokes"
+    }
+  ]
 }

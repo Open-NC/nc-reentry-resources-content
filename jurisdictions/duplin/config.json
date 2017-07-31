@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Duplin",
-  "local_jurisdiction": "duplin"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Duplin"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "duplin"
+    }
+  ]
 }

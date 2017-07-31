@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Chatham",
-  "local_jurisdiction": "chatham"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Chatham"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "chatham"
+    }
+  ]
 }

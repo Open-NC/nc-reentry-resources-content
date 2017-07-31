@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Nash",
-  "local_jurisdiction": "nash"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Nash"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "nash"
+    }
+  ]
 }

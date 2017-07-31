@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Cumberland",
-  "local_jurisdiction": "cumberland"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Cumberland"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "cumberland"
+    }
+  ]
 }

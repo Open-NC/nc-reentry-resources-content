@@ -1,4 +1,13 @@
 {
   "local_jurisdiction_name": "Cleveland",
-  "local_jurisdiction": "cleveland"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Cleveland"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "cleveland"
+    }
+  ]
 }

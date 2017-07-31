@@ -1,4 +1,12 @@
 {
-  "page_name": "Home",
-  "page_tag": "home"
+  "pairs": [
+    {
+      "name": "page_name",
+      "value": "Home"
+    },
+    {
+      "name": "page_tag",
+      "value": "home"
+    }
+  ]
 }

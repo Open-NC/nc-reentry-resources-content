@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "New Hanover",
-  "local_jurisdiction": "newhanover"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "New Hanover"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "newhanover"
+    }
+  ]
 }

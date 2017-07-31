@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Rockingham",
-  "local_jurisdiction": "rockingham"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Rockingham"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "rockingham"
+    }
+  ]
 }

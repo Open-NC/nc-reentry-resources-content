@@ -1,4 +1,12 @@
 {
-  "page_name": "Public Benefits",
-  "page_tag": "benefits"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Alexander"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "alexander"
+    }
+  ]
 }

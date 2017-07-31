@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Iredell",
-  "local_jurisdiction": "iredell"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Iredell"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "iredell"
+    }
+  ]
 }

@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Warren",
-  "local_jurisdiction": "warren"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Warren"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "warren"
+    }
+  ]
 }

@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Ashe",
-  "local_jurisdiction": "ashe"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Ashe"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "ashe"
+    }
+  ]
 }

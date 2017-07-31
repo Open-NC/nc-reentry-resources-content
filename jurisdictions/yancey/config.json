@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Yancey",
-  "local_jurisdiction": "yancey"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Yancey"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "yancey"
+    }
+  ]
 }

@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Union",
-  "local_jurisdiction": "union"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Union"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "union"
+    }
+  ]
 }

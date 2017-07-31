@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Hertford",
-  "local_jurisdiction": "hertford"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Hertford"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "hertford"
+    }
+  ]
 }

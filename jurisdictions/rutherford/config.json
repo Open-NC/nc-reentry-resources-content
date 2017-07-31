@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Rutherford",
-  "local_jurisdiction": "rutherford"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Rutherford"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "rutherford"
+    }
+  ]
 }

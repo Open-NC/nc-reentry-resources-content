@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Davie",
-  "local_jurisdiction": "davie"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Davie"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "davie"
+    }
+  ]
 }

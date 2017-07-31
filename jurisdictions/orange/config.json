@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Orange",
-  "local_jurisdiction": "orange"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Orange"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "orange"
+    }
+  ]
 }

@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Gaston",
-  "local_jurisdiction": "gaston"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Gaston"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "gaston"
+    }
+  ]
 }

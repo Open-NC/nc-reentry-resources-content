@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Bladen",
-  "local_jurisdiction": "bladen"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Bladen"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "bladen"
+    }
+  ]
 }

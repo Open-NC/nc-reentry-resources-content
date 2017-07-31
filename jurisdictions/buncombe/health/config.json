@@ -1,4 +1,12 @@
 {
-  "page_name": "Health Care",
-  "page_tag": "health"
+  "pairs": [
+    {
+      "name": "page_name",
+      "value": "Health Care"
+    },
+    {
+      "name": "page_tag",
+      "value": "health"
+    }
+  ]
 }

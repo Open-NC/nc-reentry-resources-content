@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Cabarrus",
-  "local_jurisdiction": "cabarrus"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Cabarrus"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "cabarrus"
+    }
+  ]
 }

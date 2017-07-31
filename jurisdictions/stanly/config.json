@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Stanly",
-  "local_jurisdiction": "stanly"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Stanly"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "stanly"
+    }
+  ]
 }

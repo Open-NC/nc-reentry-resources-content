@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Lenoir",
-  "local_jurisdiction": "lenoir"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Lenoir"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "lenoir"
+    }
+  ]
 }

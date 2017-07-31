@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Person",
-  "local_jurisdiction": "person"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Person"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "person"
+    }
+  ]
 }

@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Bertie",
-  "local_jurisdiction": "bertie"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Bertie"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "bertie"
+    }
+  ]
 }

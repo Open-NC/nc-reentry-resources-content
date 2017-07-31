@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Craven",
-  "local_jurisdiction": "craven"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Craven"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "craven"
+    }
+  ]
 }

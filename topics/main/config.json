@@ -1,4 +1,12 @@
 {
-  "page_name": "Main",
-  "page_tag": "main"
+  "pairs": [
+    {
+      "name": "page_name",
+      "value": "Main"
+    },
+    {
+      "name": "page_tag",
+      "value": "main"
+    }
+  ]
 }

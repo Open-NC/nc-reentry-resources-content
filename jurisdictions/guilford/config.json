@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Guilford",
-  "local_jurisdiction": "guilford"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Guilford"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "guilford"
+    }
+  ]
 }

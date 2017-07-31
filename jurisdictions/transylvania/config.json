@@ -1,4 +1,11 @@
-{
-  "local_jurisdiction_name": "Transylvania",
-  "local_jurisdiction": "transylvania"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Translyvania"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "transylvania"
+    }
+  ]
 }

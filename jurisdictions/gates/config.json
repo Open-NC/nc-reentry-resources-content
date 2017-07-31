@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Gates",
-  "local_jurisdiction": "gates"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Gates"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "gates"
+    }
+  ]
 }

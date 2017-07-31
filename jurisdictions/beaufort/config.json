@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Beaufort",
-  "local_jurisdiction": "beaufort"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Beaufort"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "beaufort"
+    }
+  ]
 }

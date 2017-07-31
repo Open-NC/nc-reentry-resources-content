@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Moore",
-  "local_jurisdiction": "moore"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Moore"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "moore"
+    }
+  ]
 }

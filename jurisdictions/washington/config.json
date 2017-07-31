@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Washington",
-  "local_jurisdiction": "washington"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Washington"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "washington"
+    }
+  ]
 }

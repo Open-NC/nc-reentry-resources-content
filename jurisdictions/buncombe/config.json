@@ -1,4 +1,12 @@
 {
-  "local_jurisdiction_name": "Buncombe",
-  "local_jurisdiction": "buncombe"
+  "pairs": [
+    {
+      "name": "local_jurisdiction_name",
+      "value": "Buncombe"
+    },
+    {
+      "name": "local_jurisdiction",
+      "value": "buncombe"
+    }
+  ]
 }

@@ -1,4 +1,12 @@
 {
-  "page_name": "Housing",
-  "page_tag": "housing"
+  "pairs": [
+    {
+      "name": "page_name",
+      "value": "Housing"
+    },
+    {
+      "name": "page_tag",
+      "value": "housing"
+    }
+  ]
 }

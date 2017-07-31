@@ -1,6 +1,7 @@
 {
   "resources": [
     {
+      "id": "c9f23de7-f628-408a-b4a8-9f53302b7ed2",
       "name": "A benefits resource.",
       "description": "A benefits Description",
       "url": "https://www.benefits.com",

@@ -1,6 +1,7 @@
 {
   "resources": [
     {
+      "id": "30f8defa-db2e-446d-a83a-e6e166d7d6db",
       "name": "An education resource.",
       "description": "An education Description",
       "url": "https://www.education.com",

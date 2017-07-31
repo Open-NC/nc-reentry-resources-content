@@ -1,6 +1,7 @@
 {
   "resources": [
     {
+      "id": "01287e0d-8e43-4ad6-93f1-328992c23a0d",
       "name": "Home Rental Listings",
       "description": "",
       "url": "http://www.icarol.info/Search.aspx?org=82852&Count=5&Search=Home+Rental+Listings&NameOnly=True&pst=Coverage&sort=Proximity&TaxExact=False&Country=United%20States&StateProvince={{common_jurisdiction}}&County={{local_jurisdiction}}&City=-1",

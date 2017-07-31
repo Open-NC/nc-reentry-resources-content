@@ -1,6 +1,7 @@
 {
   "resources": [
     {
+      "id": "2d1afcb6-a6a9-4d4d-a66e-48017c85ac60",
       "name": "A legal resource.",
       "description": "A legal Description",
       "url": "https://www.legal.com",

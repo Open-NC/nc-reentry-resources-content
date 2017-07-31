@@ -1,6 +1,7 @@
 {
   "resources": [
     {
+      "id": "b7a862e6-2856-4e05-a428-618acc8f2e0d",
       "name": "A job resource.",
       "description": "A job Description",
       "url": "https://www.job.com",

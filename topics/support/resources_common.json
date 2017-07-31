@@ -1,6 +1,7 @@
 {
   "resources": [
     {
+      "id": "a2f56610-3094-43d7-bd2e-6ec6d560ef78",
       "name": "A support resource.",
       "description": "A support Description",
       "url": "https://www.support.com",

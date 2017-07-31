@@ -1,6 +1,7 @@
 {
   "resources": [
     {
+      "id": "bea44000-8b05-4493-b6cf-d456bdb92d12",
       "name": "A housing resource.",
       "description": "A housing Description",
       "url": "https://www.housing.com",

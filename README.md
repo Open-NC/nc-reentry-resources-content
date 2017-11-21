@@ -2,6 +2,8 @@
 
 The original [Buncombe County Reentry Resources Hub](http://www.buncombereentryhub.org/) is implemented as a Wordpress website, and individual topic pages were written by a variety of people, so that they don't follow a single standard template.
 
+ONLINE GUID Generator [here](https://www.guidgenerator.com/online-guid-generator.aspx)
+
 In this implementation, content for a topic page for a given county has a strict form:
 
 1. __Common Description__: a block of HTML text with information relevant statewide (or nationally)

@@ -1,3 +1,66 @@
 {
-  "resources": []
+  "resources": [
+    {
+      "id": "xx",
+      "name": "Asheville Housing Authority",
+      "description": "The Housing Authority of the City of Asheville strives to serve its residents by providing an affordable home and avenues to self-sufficiency.",
+      "url": "http://haca.org/",
+      "category": null
+    },
+    {
+      "id": "xx",
+      "name": "FIRST at Blue Ridge, Inc",
+      "description": "FIRST at Blue Ridge is a State of North Carolina licensed Residential Therapeutic Community for men and women with chronic substance use disorders. The program’s mission is to provide opportunity and guidance to those with addictions and assist them to make positive life changes in order to become responsible and productive members of society. The program includes classes, recovery meetings, individual and/or group therapy sessions, and job search assistance.",
+      "url": "http://firstinc.org/",
+      "category": null
+    },
+    {
+      "id": "xx",
+      "name": "Biltmore Housing, Inc.",
+      "description": "Biltmore Housing provides recovery-oriented supportive housing in Asheville, Arden and Hendersonville.",
+      "url": "https://www.biltmorehousinginc.org/",
+      "category": null
+    },
+    {
+      "id": "xx",
+      "name": "Homeward Bound of WNC",
+      "description": "Homeward Bound of WNC provide assistance to the homeless regardless of criminal history or income.",
+      "url": "https://homewardboundwnc.org/",
+      "category": null
+    },
+    {
+      "id": "xx",
+      "name": "North Carolina Coalition to End Homelessness",
+      "description": "NCCEH works with communities to address root causes of homelessness by developing and implementing data-driven strategies that are focused on permanent housing and appropriate services.",
+      "url": "http://www.ncceh.org/",
+      "category": null
+    },
+    {
+      "id": "xx",
+      "name": "Women in Transition Program",
+      "description": "The Women in Transition Program of the YWCA Central Carolinas provides safe housing for single, unaccompanied women.",
+      "url": "http://www.ywcacentralcarolinas.org/programs/housing/women-in-transition/",
+      "category": null
+    },
+    {
+      "id": "xx",
+      "name": "NC LINKS",
+      "description": "NC LINKS is a program for young adults with previous engagement in the foster care program.",
+      "url": "https://www2.ncdhhs.gov/dss/links/",
+      "category": null
+    },
+    {
+      "id": "xx",
+      "name": "SocialServe.com",
+      "description": "Socialserve.com is a free housing locator service that covers most areas in North Carolina.",
+      "url": "http://www.socialserve.com/tenant/NC/index.html?type=rental",
+      "category": null
+    }
+  ]
 }
+
+ 
+
+
+
+

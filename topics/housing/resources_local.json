@@ -6,6 +6,36 @@
       "description": "",
       "url": "http://www.icarol.info/Search.aspx?org=82852&Count=5&Search=Home+Rental+Listings&NameOnly=True&pst=Coverage&sort=Proximity&TaxExact=False&Country=United%20States&StateProvince={{common_jurisdiction}}&County={{local_jurisdiction}}&City=-1",
       "category": null
+    },
+    {
+      "id": "x",
+      "name": "Low income/subsidized private rental housing",
+      "description": "",
+      "url": "http://www.icarol.info/Search.aspx?org=82852&Count=5&Search=Low+Income%2fSubsidized+Private+Rental+Housing&NameOnly=True&pst=Coverage&sort=Proximity&TaxExact=False&Country=United%20States&StateProvince={{common_jurisdiction}}&County={{local_jurisdiction}}&City=-1"
+    },
+    {
+      "id": "x",
+      "name": "Rental assistance",
+      "description": "",
+      "url": "http://www.icarol.info/Search.aspx?org=82852&Count=5&Search=Rental+Aid&NameOnly=True&pst=Coverage&sort=Proximity&TaxExact=False&Country=United%20States&StateProvince={{common_jurisdiction}}&County={{local_jurisdiction}}&City=-1"
+    },
+    {
+      "id": "x",
+      "name": "Rental deposit assistance",
+      "description": "",
+      "url": "http://www.icarol.info/Search.aspx?org=82852&Count=5&Search=Rental+Deposit+Assistance&NameOnly=True&pst=Coverage&sort=Proximity&TaxExact=False&Country=United%20States&StateProvince={{common_jurisdiction}}&County={{local_jurisdiction}}&City=-1"
+    },
+    {
+      "id": "x",
+      "name": "Homeless shelters",
+      "description": "",
+      "url": "http://www.icarol.info/Search.aspx?org=82852&Count=5&Search=Homeless+Shelter&NameOnly=True&pst=Coverage&sort=Proximity&TaxExact=False&Country=United%20States&StateProvince={{common_jurisdiction}}&County={{local_jurisdiction}}&City=-1"
+    },
+    {
+      "id": "xx",
+      "name": "Other listings",
+      "description": "There are many other listings on the <a href=\"https://www.nc211.org/\" target=\"blank\">211 site</a> – use their search function to explore other topics and to look for resources in other counties.",
+      "url": "https://www.nc211.org/"
     }
   ]
 }

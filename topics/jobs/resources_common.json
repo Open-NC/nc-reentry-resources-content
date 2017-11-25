@@ -48,6 +48,13 @@
       "description": "Vocational Rehabilitation Services</a> provides employment assistance to those with a qualifying mental or physical disability.",
       "url": "http://www.ncdhhs.gov/divisions/dvrs",
       "category": null
+    },
+    {
+      "id": "xx",
+      "name": "Federal Work Opportunity Tax Credit",
+      "description": "Federal Work Opportunity Tax Credit is a Federal tax credit available to employers for hiring people who face significant barriers to employment because of prior convictions.",
+      "url": "https://www.doleta.gov/business/incentives/opptax/",
+      "category": null
     }
   ]
 }

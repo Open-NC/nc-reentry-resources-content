@@ -1,3 +1,32 @@
 {
-  "resources": []
+  "resources": [
+    {
+      "id": "xx",
+      "name": "Project Reentry",
+      "description": "Project ReEntry (make sure you click  on \"Previously Incarcerated\") provides transition services up to 18 months before release and long-term services afterward, including job services and training through Goodwill. E-mail <a href=\"mailto:tfultz@goodwillnwnc.org\">tfultz@goodwillwnc.org</a> or call (336) 724-3625 ext. 1332 for more information.",
+      "url": "https://www.goodwillnwnc.org/jobs/job-services/",
+      "category": null
+    },
+    {
+      "id": "xx",
+      "name": "Green Opportunities",
+      "description": "Green Opportunities offers job training for everyone. There are multiple opportunities, including restaurant job skills training and construction, as well as general employment skills support. Check out some of the free classes offered in partnership with A-B Tech for qualified applicants.",
+      "url": "https://www.greenopportunities.org/jobtraining/",
+      "category": null
+    },
+    {
+      "id": "xx",
+      "name": "Eliada ESTA Program",
+      "description": "The ESTA program trains and equips students, 16 to 22 years old, who face significant challenges, helping them discover and reach their fullest potential.",
+      "url": "http://www.eliada.org/programs/workforce-development/esta",
+      "category": null
+    },
+    {
+      "id": "xx",
+      "name": "Mountain Area Workforce Development Board",
+      "description": "General employment assistance.",
+      "url": "http://www.mountainareaworks.org/",
+      "category": null
+    }
+  ]
 }

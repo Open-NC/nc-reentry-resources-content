@@ -6,6 +6,21 @@
       "description": "Federal Affordable Care Act (ACA) website. Call 1-855-733-3711 to schedule an appointment with a Federal navigator.",
       "url": "https://www.healthcare.gov",
       "category": null
+    },
+    {
+      "id": "xx",
+      "name": "National Alliance on Mental Illness",
+      "description": "",
+      "url": "https://www.nami.org/",
+      "category": null
+    },
+    {
+      "id": "xx",
+      "name": "NC Access to Recovery",
+      "description": null,
+      "url": "http://rcnc.org/recovery-supports/atr/",
+      "category": null
     }
   ]
 }
+

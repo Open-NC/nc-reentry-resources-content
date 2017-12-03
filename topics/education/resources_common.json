@@ -1,11 +1,12 @@
 {
   "resources": [
     {
-      "id": "30f8defa-db2e-446d-a83a-e6e166d7d6db",
-      "name": "An education resource.",
-      "description": "An education Description",
-      "url": "https://www.education.com",
+      "id": "a6ex88b6-5f40-45b7-8730-31c7a5a09d42",
+      "name": "NC LINKS",
+      "description": "For young adults with previous engagement in the North Carolina foster care program, NC LINKS may be able to provide financial and other assistance for post-secondary education.",
+      "url": "https://www2.ncdhhs.gov/dss/links/",
       "category": null
     }
   ]
 }
+

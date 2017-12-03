@@ -1,3 +1,18 @@
 {
-  "resources": []
+  "resources": [
+    {
+      "id": "xx",
+      "name": "Literacy Council of Buncombe County",
+      "description": "The Literacy Council of Buncombe County provides specialized tutoring and resources in literacy.",
+      "url": "http://insightnc.org/",
+      "category": null
+    },
+    {
+      "id": "xx",
+      "name": "AB Tech",
+      "description": "AB Tech is the local community college.",
+      "url": "https://www.abtech.edu/",
+      "category": null
+    }
+  ]
 }

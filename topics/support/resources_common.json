@@ -2,9 +2,9 @@
   "resources": [
     {
       "id": "a2f56610-3094-43d7-bd2e-6ec6d560ef78",
-      "name": "A support resource.",
-      "description": "A support Description",
-      "url": "https://www.support.com",
+      "name": "Community Success Initiative",
+      "description": "The mission of the Community Success Initiative organization is to help individuals and communities be aware of personal growth and “success” principles, inspire others to reach their potential, and help to build vibrant and healthy communities. This website has a great <a href=\"https://www.communitysuccess.org/resource-center/\">resource page</a>.",
+      "url": "https://www.communitysuccess.org/",
       "category": null
     }
   ]

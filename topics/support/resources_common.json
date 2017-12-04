@@ -6,6 +6,27 @@
       "description": "The mission of the Community Success Initiative organization is to help individuals and communities be aware of personal growth and “success” principles, inspire others to reach their potential, and help to build vibrant and healthy communities. This website has a great <a href=\"https://www.communitysuccess.org/resource-center/\">resource page</a>.",
       "url": "https://www.communitysuccess.org/",
       "category": null
+    },
+    {
+      "id": "xx",
+      "name": "Coastal Horizons",
+      "description": "Coastal Horizons Center offers a critical link between the criminal justice system and treatment services. The primary functions of TASC are: to provide screening and assessment for those referred, provide referral and linkage to treatment services needed, ensure access to available services, as well as monitor and report treatment progress to the referring agent.",
+      "url": "http://www.coastalhorizons.org/services/criminal_justice/",
+      "category": "Residential Programs"
+    },
+    {
+      "id": "xx",
+      "name": "The Center for Community Transitions",
+      "description": "The Center for Community Transitions (CCT) offers three main programs to address the needs of those incarcerated or recently released from incarceration:<ul><li>The Center for Women is a 30-bed residential facility for women serving out the final years of their prison sentences. The foundational offering at the Center for Women is the work-release program, guiding women towards a place of productive living and independence.</li><li>Lifeworks! is the longest running program of the organization and focuses on helping individuals with criminal records navigate the process of attaining and retaining employment.</li><li>Families Doing Time is a program that is designed to help strengthen family bonds between an incarcerated loved one and her family and interrupt the cycle of intergenerational incarceration.</li></ul>",
+      "url": "http://www.centerforcommunitytransitions.org/",
+      "category": "Residential Programs"
+    },
+    {
+      "id": "xx",
+      "name": "Project Re-Entry",
+      "description": "PROJECT RE-ENTRY assists former offenders returning to the community after serving prison sentences in avoiding the potential pitfalls associated with life after incarceration. The mission of the program is to improve the reintegration of ex-offenders, reduce criminal justice cost, and increase public safety. Project Re-Entry begins working with inmates prior to their release through a structured, group-based curriculum that is offered in designated state prison facilities. In addition to providing valuable information and education, pre-release sessions also allow Project Re-Entry staff to build trust and familiarity with inmates as they attempt to reconnect with the “outside” world. Inmates begin to think beyond the prison walls, overcome their own emotional barriers, and learn how to build healthy human connections.Along with the pre-release curriculum, Project Re-Entry also provides a variety of post-release services to pre-release program graduates after their release. Services address issues such as employment, education, deinstitutionalization, counseling, substance abuse, transportation, and family reintegration.",
+      "url": "http://www.ptrc.org/index.aspx?page=296",
+      "category": "General"
     }
   ]
 }

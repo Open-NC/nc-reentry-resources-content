@@ -1,3 +1,39 @@
 {
-  "resources": []
+  "resources": [
+    {
+      "id": "xx",
+      "name": "Re-Entry Mediation for Women",
+      "description": "Imagine that you are about to walk out into the world with no car, no job, nowhere to live, and you don’t know who – if anyone – is willing to help you get back on your feet?  What’s it like for a woman – a mom, a daughter, a spouse – to walk into the world after 2 years, 10 years, or 20 years behind bars? The Mediation Center provides an opportunity for women within 6 months of release from prison to meet with the people they will need to depend upon on the outside.",
+      "url": "http://mediatewnc.org/re-entry-mediation-a-chance-for-incarcerated-women-to-make-peace-and-make-plans/",
+      "category": "General"
+    },
+    {
+      "id": "xx",
+      "name": "Exodus Homes",
+      "description": "Exodus Homes provides transitional to permanent supportive housing for homeless recovering addicts, alcoholics, and ex-offenders. Residents come from treatment programs, detox centers, hospitals, prisons, jails, homeless shelters, and other settings. Exodus Homes actively fosters leadership development among our residents whenever possible and appropriate.",
+      "url": "http://www.exodushomes.com/",
+      "category": "Residential Programs"
+    },
+    {
+      "id": "xx",
+      "name": "FIRST at Blue Ridge, Inc.",
+      "description": "FIRST at Blue Ridge is a State of North Carolina licensed Residential Therapeutic Community for men and women with chronic substance use disorders. The program’s mission is to provide opportunity and guidance to those with addictions and assist them to make positive life changes in order to become responsible and productive members of society. The program includes classes, recovery meetings, individual and/or group therapy sessions, and job search assistance.",
+      "url": "http://firstinc.org/",
+      "category": "Residential Programs"
+    },
+    {
+      "id": "xx",
+      "name": "Sunrise Community",
+      "description": "Sunrise Community for Recovery and Wellness advocates for and supports persons transitioning from detention or institutions, or persons struggling with mental health/substance disorders while enhancing their self-efficacy, autonomy and equality.",
+      "url": "http://sunriseinasheville.org/",
+      "category": "General"
+    },
+    {
+      "id": "xx",
+      "name": "Project Re-Entry",
+      "description": "As part of Project Re-Entry, there are Reentry Services for Buncombe County available at the courthouse located at 60 Court Plaza.",
+      "url": "http://www.ptrc.org/index.aspx?page=296",
+      "category": "General"
+    }
+  ]
 }

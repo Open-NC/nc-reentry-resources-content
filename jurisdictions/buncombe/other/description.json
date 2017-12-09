@@ -1,5 +1,14 @@
 {
     "description": [
-        "<p>Other resources: Sample Text</p>"
+        "<p>The following are listings from the <a href=\"https://www.ncdps.gov/Adult-Corrections/Prisons/Transition-Services/County-Resource-Guide\" target=\"_blank\">Department of Public Services database</a> for each of the WNC counties:</p>",
+        "<ul>",
+        "<li><a href=\"http://randp.doc.state.nc.us/scripts/broker.exe?lstCOcode=11&r_lstCOcode=Service+Provider%27s+County+is+required&_SERVICE=default&_PROGRAM=sasjobs.CoResources-RPT-print.sas&_DEBUG=0\">Buncombe</a> (note: Salvation Army does not permit people on the sex offender registry to stay.)</li>",
+        "<li><a href=\"http://randp.doc.state.nc.us/scripts/broker.exe?lstCOcode=88&r_lstCOcode=Service+Provider%27s+County+is+required&_SERVICE=default&_PROGRAM=sasjobs.CoResources-RPT-print.sas&_DEBUG=0\">Transylvania</a></li>",
+        "<li><a href=\"http://randp.doc.state.nc.us/scripts/broker.exe?lstCOcode=44&r_lstCOcode=Service+Provider%27s+County+is+required&_SERVICE=default&_PROGRAM=sasjobs.CoResources-RPT-print.sas&_DEBUG=0\">Haywood</a></li>",
+        "<li><a href=\"http://randp.doc.state.nc.us/scripts/broker.exe?lstCOcode=45&r_lstCOcode=Service+Provider%27s+County+is+required&_SERVICE=default&_PROGRAM=sasjobs.CoResources-RPT-print.sas&_DEBUG=0\">Henderson</a></li>",
+        "<li><a href=\"http://randp.doc.state.nc.us/scripts/broker.exe?lstCOcode=57&r_lstCOcode=Service+Provider%27s+County+is+required&_SERVICE=default&_PROGRAM=sasjobs.CoResources-RPT-print.sas&_DEBUG=0\">Madison</a></li>",
+        "<li><a href=\"http://randp.doc.state.nc.us/scripts/broker.exe?lstCOcode=75&r_lstCOcode=Service+Provider%27s+County+is+required&_SERVICE=default&_PROGRAM=sasjobs.CoResources-RPT-print.sas&_DEBUG=0\">Polk</a></li>",
+        "<li><a href=\"http://randp.doc.state.nc.us/scripts/broker.exe?lstCOcode=81&r_lstCOcode=Service+Provider%27s+County+is+required&_SERVICE=default&_PROGRAM=sasjobs.CoResources-RPT-print.sas&_DEBUG=0\">Rutherford</a></li>",
+        "</ul>"
     ]
 }

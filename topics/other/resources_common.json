@@ -1,11 +1,35 @@
 {
   "resources": [
     {
-      "id": "bd4650f4-20c6-4843-9ccb-7bc5da16b7f2",
-      "name": "An other resource.",
-      "description": "An other Description",
-      "url": "https://www.other.com",
-      "category": null
+      "id": "xx",
+      "name": "Household Budgeting Worksheet",
+      "description": "This worksheet from the <a href=\"http://www.consumercredit.com/financial-education/budgeting\" target=\"_blank\">budgeting</a> section of <a href=\"http://www.consumercredit.com/\" target=\"_blank\">ConsumerCredit.com</a> can help with responsible financial planning.",
+      "url": "http://www.consumercredit.com/media/218038/household-budgeting-worksheet-side-one.pdf",
+      "category": "Financial"
+    },
+    {
+      "id": "xx2",
+      "name": "NC Health & Human Services Local Offices",
+      "description": "This page links to all county HHS websites. The sites offer information on Public Assistance, Public Health, Social Work Services, Veterans Benefits, children services, Medicaid and more.",
+      "url": "http://www.ncdhhs.gov/divisions/dss/local-county-social-services-offices",
+      "category": "Other"
+    },
+    {
+      "id": "xx2",
+      "name": "FTC Consumer Website",
+      "description": "The FTC Consumer Website provides information ranging from jobs and money making tips, identity theft prevention, home buying and renting, health and fitness, and money and credit strategies, as well as tips on how to <a href=\"https://www.consumer.ftc.gov/articles/0219-disputing-credit-card-charges\" target=\"_blank\">dispute credit card and other billing errors</a>.",
+      "url": "https://www.consumer.ftc.gov/",
+      "category": "Financial"
+    },
+    {
+      "id": "xx2",
+      "name": "Assurance Wireless",
+      "description": "Assurance Wireless offers free phones and limited free voice/text to certain low-income households who qualify.",
+      "url": "http://www.assurancewireless.com/Public/Welcome.aspx",
+      "category": "Financial"
     }
   ]
 }
+        
+        
+        
